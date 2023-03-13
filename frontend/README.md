@@ -14,3 +14,5 @@ mongodb+srv://admin:XtT600aiMN4lYr4o@cluster0.ianbgdm.mongodb.net/amazona?retryW
 
 //To seed order table
 http://localhost:5000/api/seed
+
+// "proxy": "http://localhost:5000",
